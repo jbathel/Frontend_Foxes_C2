@@ -1,0 +1,11 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.7;
+  letter-spacing: 110;
+}
+
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+}
